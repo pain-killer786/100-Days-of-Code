@@ -1,3 +1,5 @@
+// Given an integer input. The objective is to write a code to check if a number is positive, negative or zero.
+
 #include<iostream>
 using namespace std;
 
